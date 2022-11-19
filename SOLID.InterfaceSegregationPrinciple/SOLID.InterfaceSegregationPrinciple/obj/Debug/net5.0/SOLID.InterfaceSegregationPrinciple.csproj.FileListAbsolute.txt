@@ -1,0 +1,16 @@
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\bin\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.exe
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\bin\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.deps.json
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\bin\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\bin\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\bin\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.dll
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\bin\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.pdb
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\obj\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\obj\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\obj\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\obj\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\obj\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\obj\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.dll
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\obj\Debug\net5.0\refint\SOLID.InterfaceSegregationPrinciple.dll
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\obj\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.pdb
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\obj\Debug\net5.0\SOLID.InterfaceSegregationPrinciple.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.InterfaceSegregationPrinciple\SOLID.InterfaceSegregationPrinciple\obj\Debug\net5.0\ref\SOLID.InterfaceSegregationPrinciple.dll

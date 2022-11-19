@@ -1,0 +1,16 @@
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\bin\Debug\net5.0\Solid.SingleResponsability.exe
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\bin\Debug\net5.0\Solid.SingleResponsability.deps.json
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\bin\Debug\net5.0\Solid.SingleResponsability.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\bin\Debug\net5.0\Solid.SingleResponsability.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\bin\Debug\net5.0\Solid.SingleResponsability.dll
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\bin\Debug\net5.0\Solid.SingleResponsability.pdb
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\obj\Debug\net5.0\Solid.SingleResponsability.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\obj\Debug\net5.0\Solid.SingleResponsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\obj\Debug\net5.0\Solid.SingleResponsability.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\obj\Debug\net5.0\Solid.SingleResponsability.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\obj\Debug\net5.0\Solid.SingleResponsability.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\obj\Debug\net5.0\Solid.SingleResponsability.dll
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\obj\Debug\net5.0\refint\Solid.SingleResponsability.dll
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\obj\Debug\net5.0\Solid.SingleResponsability.pdb
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\obj\Debug\net5.0\Solid.SingleResponsability.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\Solid.SingleResponsability\Solid.SingleResponsability\obj\Debug\net5.0\ref\Solid.SingleResponsability.dll

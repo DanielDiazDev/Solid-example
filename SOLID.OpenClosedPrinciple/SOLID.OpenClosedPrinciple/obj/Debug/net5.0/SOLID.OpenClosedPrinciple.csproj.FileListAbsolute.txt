@@ -1,0 +1,16 @@
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\bin\Debug\net5.0\SOLID.OpenClosedPrinciple.exe
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\bin\Debug\net5.0\SOLID.OpenClosedPrinciple.deps.json
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\bin\Debug\net5.0\SOLID.OpenClosedPrinciple.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\bin\Debug\net5.0\SOLID.OpenClosedPrinciple.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\bin\Debug\net5.0\SOLID.OpenClosedPrinciple.dll
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\bin\Debug\net5.0\SOLID.OpenClosedPrinciple.pdb
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\obj\Debug\net5.0\SOLID.OpenClosedPrinciple.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\obj\Debug\net5.0\SOLID.OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\obj\Debug\net5.0\SOLID.OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\obj\Debug\net5.0\SOLID.OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\obj\Debug\net5.0\SOLID.OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\obj\Debug\net5.0\SOLID.OpenClosedPrinciple.dll
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\obj\Debug\net5.0\SOLID.OpenClosedPrinciple.pdb
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\obj\Debug\net5.0\SOLID.OpenClosedPrinciple.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\obj\Debug\net5.0\ref\SOLID.OpenClosedPrinciple.dll
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.OpenClosedPrinciple\SOLID.OpenClosedPrinciple\bin\Debug\net5.0\ref\SOLID.OpenClosedPrinciple.dll

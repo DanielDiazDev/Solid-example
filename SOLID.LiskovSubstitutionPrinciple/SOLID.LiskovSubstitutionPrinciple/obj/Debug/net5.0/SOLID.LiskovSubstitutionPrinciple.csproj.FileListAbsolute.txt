@@ -1,0 +1,16 @@
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\bin\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.exe
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\bin\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.deps.json
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\bin\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\bin\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\bin\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.dll
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\bin\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.pdb
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\obj\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\obj\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\obj\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\obj\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\obj\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\obj\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.dll
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\obj\Debug\net5.0\refint\SOLID.LiskovSubstitutionPrinciple.dll
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\obj\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.pdb
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\obj\Debug\net5.0\SOLID.LiskovSubstitutionPrinciple.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\QuarkAcademy\SOLID\SOLID.LiskovSubstitutionPrinciple\SOLID.LiskovSubstitutionPrinciple\obj\Debug\net5.0\ref\SOLID.LiskovSubstitutionPrinciple.dll
